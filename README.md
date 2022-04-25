@@ -1,2 +1,3 @@
 # Projeto_SGC
-Projeto idealizado para atender as necessidades de uma pequena conveniência 
+Projeto pessoal 
+Programa desktop em java para o controle e gerenciamento de uma conveniÊnca  
